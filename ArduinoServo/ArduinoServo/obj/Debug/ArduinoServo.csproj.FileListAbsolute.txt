@@ -1,0 +1,6 @@
+C:\Users\MORIMOTOS\Desktop\ArduinoServo\ArduinoServo\bin\Debug\ArduinoServo.dll
+C:\Users\MORIMOTOS\Desktop\ArduinoServo\ArduinoServo\bin\Debug\ArduinoServo.pdb
+C:\Users\MORIMOTOS\Desktop\ArduinoServo\ArduinoServo\obj\Debug\ArduinoServo.csprojAssemblyReference.cache
+C:\Users\MORIMOTOS\Desktop\ArduinoServo\ArduinoServo\obj\Debug\ArduinoServo.csproj.CoreCompileInputs.cache
+C:\Users\MORIMOTOS\Desktop\ArduinoServo\ArduinoServo\obj\Debug\ArduinoServo.dll
+C:\Users\MORIMOTOS\Desktop\ArduinoServo\ArduinoServo\obj\Debug\ArduinoServo.pdb
